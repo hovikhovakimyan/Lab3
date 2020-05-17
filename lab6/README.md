@@ -1,0 +1,1 @@
+This lab took me a few weeks, was able to get the daemon code and mole code down pretty quickly but it took me a week or two to figure out why the daemon wouldn't properly write to the file. Turns out it was because it didn't know that the mole files directory.

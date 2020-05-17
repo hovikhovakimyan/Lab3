@@ -1,0 +1,1 @@
+Pretty quick and painless lab. Just coded up the correct formulas and printed the output.
